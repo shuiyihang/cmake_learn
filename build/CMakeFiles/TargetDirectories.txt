@@ -1,0 +1,8 @@
+/home/sky/c_test/cmk/build/CMakeFiles/edit_cache.dir
+/home/sky/c_test/cmk/build/CMakeFiles/rebuild_cache.dir
+/home/sky/c_test/cmk/build/example/app/CMakeFiles/rebuild_cache.dir
+/home/sky/c_test/cmk/build/example/app/CMakeFiles/edit_cache.dir
+/home/sky/c_test/cmk/build/example/app/CMakeFiles/main.dir
+/home/sky/c_test/cmk/build/example/driver/CMakeFiles/rebuild_cache.dir
+/home/sky/c_test/cmk/build/example/driver/CMakeFiles/edit_cache.dir
+/home/sky/c_test/cmk/build/example/driver/CMakeFiles/driver.dir

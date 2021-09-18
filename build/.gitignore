@@ -1,0 +1,12 @@
+*.cmake
+*.make
+link.txt
+*.log
+*.check_cache
+*.bin
+*.cxx
+*.marks
+*.internal
+*.includecache
+*.out
+*.json
